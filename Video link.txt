@@ -1,0 +1,3 @@
+https://youtu.be/m6PDUIF24v4
+
+Gsap liblery https://greensock.com/docs/v3/Eases
